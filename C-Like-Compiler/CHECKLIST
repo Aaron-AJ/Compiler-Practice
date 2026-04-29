@@ -1,0 +1,17 @@
+Item  Status        Description
+----  ------        -----------
+ 1)   DONE   Implement symtab functions and append_inst()
+ 2)   DONE   Implement integer operators, parenthesis
+ 3)   DONE   Implement bitwise operators and relational operators
+ 4)   DONE   Implement string variables
+ 5)   DONE   Implement type checking
+ 6)   DONE   Implement malloc, I/O functions
+ 7)   DONE   if statements with/without optional else clauses
+ 8)   DONE   while and do loops
+ 9)   DONE   1D int arrays
+10)   DONE   main -> distinguish between locals and globals
+11)   DONE   Arg-free functions, no locals
+12)   DONE   Arg-free functions, with locals
+13)   DONE   Functions with locals and args
+14)   DONE   Non-leaf and recursive functions
+
